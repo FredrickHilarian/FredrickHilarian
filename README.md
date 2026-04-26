@@ -25,3 +25,82 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickhilarian&show_icons=true&locale=en" alt="fredrickhilarian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickhilarian&" alt="fredrickhilarian" /></p> -->
+
+<h1 align="center">Fredrick Hilarian</h1>
+<h3 align="center">Product Designer • Frontend Engineer • Builder</h3>
+
+<p align="center">
+Designing systems. Building products. Shipping ideas.
+</p>
+
+<p align="center">
+<a href="https://www.fredrickhil.com/work">Portfolio</a> • 
+<a href="https://hazoorilallegacy-web.vercel.app/">Recent Project(Work in Progress)</a> • 
+<a href="mailto:fredrickhilarian.com">Email</a>
+</p>
+
+---
+
+### About Me
+
+I design and build products end-to-end.
+
+Most designers stop at screens.  
+I take it further into code and deployment.
+
+I work across product design, frontend development, and deployment, allowing me to move faster, reduce dependencies, and ensure what gets shipped matches the original intent.
+
+---
+
+### Current Focus
+
+- Building full-stack product experiences  
+- Exploring AI-assisted workflows in design and development  
+- Improving speed from idea to production  
+
+---
+
+### Tech & Tools
+
+**Design**
+Figma • FigJam • Adobe Photoshop • Illustrator • After Effects • Adobe XD  
+
+**Frontend**
+React • Next.js • React Native • TypeScript • JavaScript • HTML • CSS • Tailwind • Sass • Redux  
+
+**Backend & Data**
+Node.js • Express • MongoDB • MySQL  
+
+**Data & Visualization**
+D3.js • Chart.js • Real-time Data Systems  
+
+**Cloud & DevOps**
+Google Cloud Platform (GCP) • Docker  
+
+**CMS & No-Code**
+WordPress (Elementor) • Wix  
+
+**AI & Productivity**
+ChatGPT • Gemini • AI-assisted prototyping workflows  
+
+**Other Tools**
+Git • Postman • Babel • Webpack  
+
+---
+
+### Selected Work
+
+- Portfolio → https://www.fredrickhil.com/work  
+
+---
+
+### Connect
+
+<a href="https://linkedin.com/in/fredrick-hilarian-485002181/">LinkedIn</a> • 
+<a href="https://twitter.com/hilfredrick">Twitter</a>
+
+---
+
+<p align="center">
+<sub>Building products from idea to deployment with clarity and precision.</sub>
+</p>
