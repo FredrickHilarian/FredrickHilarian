@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fredrick Hilarian</h1>
+<!-- <h1 align="center">Hi 👋, I'm Fredrick Hilarian</h1>
 <h3 align="center">I am a versatile professional with a passion for creating seamless user experiences and innovative digital solutions. With a strong background in product engineering and UX design, I thrive on translating ideas into tangible, impactful products. My expertise lies in developing frontend interfaces, crafting intuitive designs, and collaborating with cross-functional teams to drive projects from concept to completion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrickhilarian&label=Profile%20views&color=0e75b6&style=flat" alt="fredrickhilarian" /> </p>
@@ -24,73 +24,87 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickhilarian&show_icons=true&locale=en" alt="fredrickhilarian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickhilarian&" alt="fredrickhilarian" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickhilarian&" alt="fredrickhilarian" /></p>  -->
+
 
 <h1 align="center">Fredrick Hilarian</h1>
-<h3 align="center">Product Designer • Frontend Engineer • Builder</h3>
+<h3 align="center">Product Designer • Full-Stack Developer • Builder</h3>
 
 <p align="center">
-Designing systems. Building products. Shipping ideas.
+I design, build, and ship products end-to-end.
 </p>
 
 <p align="center">
 <a href="https://www.fredrickhil.com/work">Portfolio</a> • 
-<a href="https://hazoorilallegacy-web.vercel.app/">Recent Project(Work in Progress)</a> • 
-<a href="mailto:fredrickhilarian.com">Email</a>
+<a href="https://hazoorilallegacy-web.vercel.app/">Work in Progress</a> • 
+<a href="mailto:rednkheidi@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fredrickhilarian&label=Profile%20views&color=0e75b6&style=flat" alt="fredrickhilarian" />
 </p>
 
 ---
 
 ### About Me
 
-I design and build products end-to-end.
+I’m a product designer who doesn’t stop at design.
 
-Most designers stop at screens.  
-I take it further into code and deployment.
+I work across the full lifecycle, from defining problems and designing experiences to building and deploying real products.
 
-I work across product design, frontend development, and deployment, allowing me to move faster, reduce dependencies, and ensure what gets shipped matches the original intent.
+Most designers hand off.  
+I take it from concept to production and ensure it’s ready to scale, grow, and perform.
 
----
-
-### Current Focus
-
-- Building full-stack product experiences  
-- Exploring AI-assisted workflows in design and development  
-- Improving speed from idea to production  
+This allows me to:
+- Move faster with fewer dependencies  
+- Maintain design quality in real-world implementation  
+- Build products that actually work, not just look good  
 
 ---
 
-### Tech & Tools
+### What I Do
 
-**Design**
-Figma • FigJam • Adobe Photoshop • Illustrator • After Effects • Adobe XD  
+- End-to-end product design (UX, UI, systems thinking)  
+- Frontend development (React, Next.js)  
+- Backend integration and deployment (Node.js, GCP)  
+- Post-launch optimization including SEO, performance, and usability improvements  
+- Marketing and growth support (landing pages, presentations, brand assets, visual identity, and video content)  
+- Rapid prototyping using AI-assisted workflows  
 
-**Frontend**
+---
+
+### Tech Stack
+
+**Design**  
+Figma • FigJam • Photoshop • Illustrator • After Effects • Adobe XD  
+
+**Frontend**  
 React • Next.js • React Native • TypeScript • JavaScript • HTML • CSS • Tailwind • Sass • Redux  
 
-**Backend & Data**
+**Backend & Data**  
 Node.js • Express • MongoDB • MySQL  
 
-**Data & Visualization**
-D3.js • Chart.js • Real-time Data Systems  
+**Data & Visualization**  
+D3.js • Chart.js • Real-time systems  
 
-**Cloud & DevOps**
+**Cloud & DevOps**  
 Google Cloud Platform (GCP) • Docker  
 
-**CMS & No-Code**
+**CMS & No-Code**  
 WordPress (Elementor) • Wix  
 
-**AI & Productivity**
-ChatGPT • Gemini • AI-assisted prototyping workflows  
+**AI & Workflow**  
+ChatGPT • Gemini • AI-assisted prototyping  
 
-**Other Tools**
+**Tools**  
 Git • Postman • Babel • Webpack  
 
 ---
 
 ### Selected Work
 
-- Portfolio → https://www.fredrickhil.com/work  
+Portfolio → https://www.fredrickhil.com/work  
+Work in Progress → https://hazoorilallegacy-web.vercel.app/  
 
 ---
 
@@ -101,6 +115,22 @@ Git • Postman • Babel • Webpack
 
 ---
 
+### GitHub Stats
+
 <p align="center">
-<sub>Building products from idea to deployment with clarity and precision.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=fredrickhilarian&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickhilarian&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickhilarian" />
+</p>
+
+---
+
+<p align="center">
+<sub>Design. Build. Deploy. Scale.</sub>
 </p>
