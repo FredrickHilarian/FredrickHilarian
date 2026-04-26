@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fredrick Hilarian</h1>
+<!-- <h1 align="center">Hi 👋, I'm Fredrick Hilarian</h1>
 <h3 align="center">I am a versatile professional with a passion for creating seamless user experiences and innovative digital solutions. With a strong background in product engineering and UX design, I thrive on translating ideas into tangible, impactful products. My expertise lies in developing frontend interfaces, crafting intuitive designs, and collaborating with cross-functional teams to drive projects from concept to completion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrickhilarian&label=Profile%20views&color=0e75b6&style=flat" alt="fredrickhilarian" /> </p>
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickhilarian&show_icons=true&locale=en" alt="fredrickhilarian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickhilarian&" alt="fredrickhilarian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickhilarian&" alt="fredrickhilarian" /></p> -->
